@@ -12,3 +12,10 @@ body {
   background-color: brown;
 
 }
+
+tbody {
+  text-align: center;
+}
+thead{
+  text-align: center;
+}
