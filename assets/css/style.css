@@ -1,1 +1,14 @@
+.jumbotron{
+  background-image: url("../images/UP.jpg");
 
+}
+
+body {
+  background-image: url("../images/train.gif")!important;
+  background-size: cover;
+}
+
+#add-train-btn:hover {
+  background-color: brown;
+
+}
